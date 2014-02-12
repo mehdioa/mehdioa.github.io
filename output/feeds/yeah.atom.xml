@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Omid Nikta</title><link href="http://omidnikta.github.io/" rel="alternate"></link><link href="http://omidnikta.github.io/feeds/yeah.atom.xml" rel="self"></link><id>http://omidnikta.github.io/</id><updated>2012-07-09T22:28:00+02:00</updated><entry><title>My super title</title><link href="http://omidnikta.github.io/my-super-title.html" rel="alternate"></link><updated>2012-07-09T22:28:00+02:00</updated><author><name>Alexis Métaireau</name></author><id>tag:omidnikta.github.io,2012-07-09:my-super-title.html</id><summary type="html">
-        This is the content of my super blog post.
-    </summary><category term="thats"></category><category term="awesome"></category></entry></feed>
